@@ -1,3 +1,3 @@
-# project 
-// code di buat menggunakan fluttter dengan baha dart
+# project login
+// code di buat menggunakan fluttter dengan bahasa dart
 // dengan user interfaace alakadarnya hanya untuk mencoba 
